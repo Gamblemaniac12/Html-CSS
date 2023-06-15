@@ -18,24 +18,6 @@ html {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.submit input[type="submit"] {
-    color: rgb(225,225,225);
-    cursor:pointer;
-    border: none;
-    font-weight: 900;
-    outline: none;
-    text-align: center;
-    font-family: 'Raleway', sans-serif;
-    margin: 0px 3%;
-    padding: 7px 0px;
-    width: 25%;
-    font-size: 18px;
-    transition: border-color 0.3s color 0.3s background-color 0.3s;
-    border-radius: 7px;
-    background-color: #797a7b;
-    box-shadow: 1px 1px 4px 0 rgba(0,0,0,0.3);
-}
-
 #home {
     background: url(../Images/dog\ corgi.jpg);
     background-attachment: fixed;
